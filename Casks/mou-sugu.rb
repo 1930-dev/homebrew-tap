@@ -1,6 +1,6 @@
 cask "mou-sugu" do
-  version "1.3.7"
-  sha256 "60b5c5610cadee7aad7366f9d57e04081ed9828f3db76ad15d506de0e3a7d2db"
+  version "1.3.8"
+  sha256 "0eb9df724cb15ba6ed5ccef246d93d57b77652403a68fe77a42707ab853f08cf"
 
   url "https://github.com/1930-dev/mousugu/releases/download/v#{version}/MouSugu-#{version}.dmg"
   name "Mou Sugu"
